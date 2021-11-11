@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/MEGA-BLASTER2004/tasks-backend#readme",
     "dependencies": {
+        "cors": "^2.8.5",
         "express": "^4.17.1",
         "mongoose": "^6.0.12"
     }
